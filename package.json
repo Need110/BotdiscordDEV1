@@ -1,0 +1,15 @@
+{
+  "name": "dossierbotsixhead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start" : "node.index.js"
+  },
+  "author": "𝕹̮𝖊̯𝖊̮𝖉͜必要",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security"
+  }
+}
